@@ -8,6 +8,7 @@
 - ### Variabile d'ambiente `GITHUB_TOKEN`:
   Dato che lo script ha necessità di interrogare le API di GitHub, è necessario impostare un token d'accesso personale come variabile d'ambiente Windows.
  La creazione del token è possibile tramite [la propria pagina profilo](https://github.com/settings/tokens) ed è importante assegnare tutti gli scope sotto la categoria `repo`.
+
  ![image](https://github.com/user-attachments/assets/9f4a03af-0e2b-4792-8d84-c0245ce1da4f)
 
   Una volta creato il token **copiarne il valore** e [impostarla come variabile d'ambiente](https://www.ilsoftware.it/focus/breve-guida-all-uso-delle-variabili-d-ambiente-in-windows_6792/).
