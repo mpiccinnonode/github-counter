@@ -44,6 +44,7 @@ Quindi ad esempio:
 Attendere la fine dell'esecuzione e ripetere il processo per ogni repository su ogni mese.
 
 _Nota:_ potrebbe volerci un po' su repository con molte contribution.
+
 **! IMPORTANTE !:** durante l'esecuzione **NON APRIRE E NON TENERE APERTO** il file excel di destinazione, altrimenti la scrittura dei valori non andrà a buon fine.
 
 
